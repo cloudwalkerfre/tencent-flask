@@ -1,7 +1,7 @@
 {
   "name": "synap-flask",
   "description": "Based on Tencent Cloud Flask Serverless Component",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "serverless.js",
   "publishConfig": {
     "access": "public"
@@ -39,14 +39,7 @@
       "tag": false
     }
   },
-  "dependencies": {
-    "@serverless/core": "^1.1.1",
-    "@serverless/tencent-apigateway": "^2.1.4",
-    "@serverless/tencent-scf": "^3.0.0",
-    "@yugasun/python-requirements": "^0.1.2",
-    "ext": "^1.4.0",
-    "type": "^2.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
     "@commitlint/config-conventional": "^8.2.0",

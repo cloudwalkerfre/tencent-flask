@@ -11,8 +11,11 @@
   "author": "cloudwalkerfree@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "download": "^8.0.0",
-    "tencent-component-toolkit": "^1.10.1",
+    "@serverless/core": "^1.1.1",
+    "@serverless/tencent-apigateway": "^2.1.4",
+    "@serverless/tencent-scf": "^3.0.0",
+    "@yugasun/python-requirements": "^0.1.2",
+    "ext": "^1.4.0",
     "type": "^2.0.0"
   }
 }

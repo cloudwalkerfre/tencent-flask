@@ -1,5 +1,5 @@
 name: synap-flask # Required. The name of the Component
-version: 0.0.4 # Required. The version of the Component
+version: 0.0.5 # Required. The version of the Component
 author: cloudwalkerfree@gmail.com # Required. The author of the Component
 org: synaptitudebrainhealth # Required. The Serverless Framework org which owns this Component
 main: ./src # Required. The directory which contains the Component code
