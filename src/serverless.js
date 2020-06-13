@@ -1,3 +1,3 @@
-const Component = require('./src')
+const Component = require('.')
 
 module.exports = Component
