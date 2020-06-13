@@ -1,6 +1,6 @@
 {
   "name": "synap-flask",
-  "main": "./index.js",
+  "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
